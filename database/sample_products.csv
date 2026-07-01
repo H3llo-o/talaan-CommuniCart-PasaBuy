@@ -1,0 +1,499 @@
+category,brand,product_name,price,unit,unit_qty
+FRUITS,,Avocado,200,kg,1
+FRUITS,,Lakatan,100,kg,1
+FRUITS,,Latundan,80,kg,1
+FRUITS,,Saba,60,kg,1
+FRUITS,,Calamansi,120,kg,1
+FRUITS,,Mango Carabao,120,kg,1
+FRUITS,,Melon,100,kg,1
+FRUITS,,Papaya,80,kg,1
+FRUITS,,Pomelo,150,kg,1
+FRUITS,,Watermelon,80,kg,1
+CONDIMENTS,,Sugar (Refined),80,kg,1
+CONDIMENTS,,Sugar (Washed),75,kg,1
+CONDIMENTS,,Sugar (Brown),70,kg,1
+OIL,,Palm Oil,40,ml,350
+OIL,,Palm Oil,100,L,1
+OIL,,Coconut Oil,60,ml,350
+OIL,,Coconut Oil,160,L,1
+SPICES,,Chili (Siling labuyo),200,kg,1
+SPICES,,Local Garlic (Bawang),350,kg,1
+SPICES,,Imported Garlic (Bawang),150,kg,1
+SPICES,,Ginger (Luya),190,kg,1
+SPICES,,Local Red Onion (Pulang Sibuyas),100,kg,1
+SPICES,,Local White Onion (Puting Sibuyas),100,kg,1
+SPICES,,Imported White Onion (Medium size),140,kg,1
+FISH,,Alumahan,300,kg,1
+FISH,,Milkfish (Bangus),240,kg,1
+FISH,,Local Round Scad (Galunggong),240,kg,1
+FISH,,Sardines (Tamban),100,kg,1
+FISH,,Squid (Pusit Bisaya),400,kg,1
+FISH,,Tilapia,160,kg,1
+VEGETABLES,,Bittergourd (Ampalaya),100,kg,1
+VEGETABLES,,Chili (Green),100,kg,1
+VEGETABLES,,Eggplant (Talong),100,kg,1
+VEGETABLES,,Pechay Tagalog,100,kg,1
+VEGETABLES,,String Beans (Sitao),120,kg,1
+VEGETABLES,,Squash (Kalabasa),60,kg,1
+VEGETABLES,,Tomato (Kamatis),80,kg,1
+VEGETABLES,,Bell Pepper (Green),275,kg,1
+VEGETABLES,,Bell Pepper (Red),250,kg,1
+VEGETABLES,,Broccoli,260,kg,1
+VEGETABLES,,Cauliflower,200,kg,1
+VEGETABLES,,Cabbage Repolyo (Rare Ball),120,kg,1
+VEGETABLES,,Cabbage Repolyo (Scorpio),120,kg,1
+VEGETABLES,,Cabbage Repolyo (Wonder Ball),100,kg,1
+VEGETABLES,,Carrot (Karot),100,kg,1
+VEGETABLES,,Celery,150,kg,1
+VEGETABLES,,Chayote (Sayote),80,kg,1
+VEGETABLES,,Baguio Beans (Habitchuelas),140,kg,1
+VEGETABLES,,Pechay Baguio,80,kg,1
+VEGETABLES,,Lettuce (Green Ice),250,kg,1
+VEGETABLES,,Lettuce (Iceberg),200,kg,1
+VEGETABLES,,Lettuce (Romaine),275,kg,1
+VEGETABLES,,White Potato (Patatas),120,kg,1
+RICE,,P20 Benteng Bigas,20,kg,1
+RICE,,Basmati,190,kg,1
+RICE,,Glutinous,60,kg,1
+RICE,,Jasponica/Japonica,60,kg,1
+RICE,,Well Milled,48,kg,1
+RICE,,Other Special Rice,60,kg,1
+RICE,,Premium,55,kg,1
+RICE,,Regular Milled,45,kg,1
+CORN,,Corn (White),90,kg,1
+CORN,,Yellow Sweet Corn (Cob),80,kg,1
+CORN,,"Corn Cracked (Yellow, Feed Grade)",46,kg,1
+CORN,,Corn Grits (Feed Grade),50,kg,1
+BEANS,,Mung Bean,140,kg,1
+MEAT,,Beef Brisket,480,kg,1
+MEAT,,Beef Rump,480,kg,1
+MEAT,,Pork Ham,340,kg,1
+MEAT,,Pork Belly,380,kg,1
+MEAT,,Frozen Kasim,245,kg,1
+MEAT,,Frozen Liempo,300,kg,1
+MEAT,,Whole Chicken,200,kg,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Peewee)",6,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Extra Small)",6,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Small)",7,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Medium)",8,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Large)",9,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Extra Large)",9,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (White, Jumbo)",10,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (Brown, Medium)",12,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (Brown, Large)",12.5,pc,1
+LIVESTOCK AND POULTRY PRODUCTS,,"Chicken Egg (Brown, Extra Large)",10,pc,1
+CANNED GOODS,Saba,Saba Phil Sardines,17.5,g,155
+CANNED GOODS,Budget,Family's Budget Pack Plain,15.25,g,130
+CANNED GOODS,Bingo,Bingo,23,g,150
+CANNED GOODS,Argentina,Argentina,36.75,g,150
+CANNED GOODS,Purefoods,Purefoods,18.15,g,150
+CONDIMENTS,Datu Puti,Datu Puti White Vinegar SMKT,18,ml,350
+CONDIMENTS,Silver Swan,Silver Swan Sukang Puti SMKT,18,ml,350
+CONDIMENTS,Silver Swan,Silver Swan Soy Sauce SMKT,20.75,ml,350
+CONDIMENTS,Lorins,Lorins Patis PET Bottle,25,ml,350
+BATH SOAP,Green Cross,Green Cross Pure Care,15,g,55
+BATH SOAP,Safeguard,Safeguard Pure White,22,g,55
+BATTERIES,Eveready,Eveready Heavy Duty Small Red AA Pack of 2,27,pack,1
+SALT,Lasap,Lasap Iodized Salt,31.5,kg,1
+SALT,Lasap,Lasap Rock Salt,13.5,g,500
+PROCESSED MILK,Jersey,Jersey Sweetened Condensed Creamer,44.5,g,390
+PROCESSED MILK,Bear Brand,Bear Brand Powdered Milk,50,g,135
+PROCESSED MILK,Alaska,Alaska Fortified Powdered Milk Drink,44,g,165
+COFFEE,Cafe Puro,Cafe Puro,4.7,g,17
+COFFEE,Nescafe,Nescafe Original,7.75,g,20
+BOTTLED WATER,Wilkins,Wilkins Distilled Water,12,ml,330
+BOTTLED WATER,Nature's Spring,Nature's Spring Purified Water,10.5,ml,500
+BREAD,Pinoy Tasty,Pinoy Tasty,44,g,450
+BREAD,Pinoy Pandesal,Pinoy Pandesal (10pcs./pack),27.25,g,250
+NOODLES,Payless,Payless (Chicken Espesyal and Beef),7.5,g,55
+NOODLES,Lucky Me!,Lucky Me! (Instant Mami Chicken/Beef),8.75,g,55
+CANNED GOODS,Century Tuna,Century Tuna Flakes in Oil,40,g,180
+CANNED GOODS,555,555 Tuna Flakes in Oil,35,g,155
+CANNED GOODS,San Marino,San Marino Corned Tuna,42,g,180
+CANNED GOODS,Spam,Spam Regular,195,g,340
+CANNED GOODS,Libby's,Libby's Vienna Sausage,45,g,130
+NOODLES,Lucky Me!,Lucky Me! Pancit Canton Kalamansi,15,g,80
+NOODLES,Nissin,Nissin Cup Noodles Seafood,25,g,60
+SNACKS,Jack n Jill,Piattos Cheese,38,g,85
+SNACKS,Jack n Jill,Nova Multigrain Snacks,38,g,78
+SNACKS,SkyFlakes,SkyFlakes Crackers,60,g,250
+SNACKS,Fita,Fita Crackers,60,g,250
+BEVERAGES,Coca-Cola,Coca-Cola Original Taste,75,L,1.5
+BEVERAGES,Sprite,Sprite,75,L,1.5
+BEVERAGES,Royal,Royal Tru Orange,75,L,1.5
+BEVERAGES,C2,C2 Green Tea Apple,30,ml,500
+BEVERAGES,Gatorade,Gatorade Blue Bolt,45,ml,500
+BATH SOAP,Dove,Dove White Beauty Bar,65,g,135
+SHAMPOO,Head & Shoulders,Head & Shoulders Anti-Dandruff Shampoo,130,ml,170
+TOOTHPASTE,Colgate,Colgate Cavity Protection Toothpaste,95,ml,145
+HAIR CONDITIONER,Creamsilk,Creamsilk Standout Straight Conditioner,120,ml,170
+DISHWASHING,Joy,Joy Dishwashing Liquid Lemon,60,ml,250
+DETERGENT,Ariel,Ariel Powder Detergent Sunrise Fresh,180,kg,1
+FABRIC CONDITIONER,Downy,Downy Sunrise Fresh Fabric Conditioner,150,ml,800
+CONDIMENTS,UFC,UFC Banana Ketchup,38,g,320
+CONDIMENTS,Mang Tomas,Mang Tomas All-Purpose Sauce Regular,39.5,g,325
+CONDIMENTS,Lady's Choice,Lady's Choice Choice Real Mayonnaise,115,ml,220
+CONDIMENTS,Mama Sita's,Mama Sita's Oyster Sauce,54,g,156
+DAIRY & SPREADS,Magnolia,Magnolia Gold Butter Premium,165,g,225
+DAIRY & SPREADS,Anchor,Anchor Butter Salted,185,g,227
+DAIRY & SPREADS,Eden,Eden Cheese Original,63.5,g,160
+DAIRY & SPREADS,Quezo,Quezo Pasteurized Process Cheese Food,52,g,165
+COFFEE,Milo,Milo Choco Malt Drink,128,g,300
+COFFEE,Swiss Miss,Swiss Miss Milk Chocolate,140,pack,10
+COFFEE,Nescafe,Nescafe Classic Refill,98,g,100
+OIL,Minola,Minola Cooking Oil Premium Coconut Oil,112,ml,500
+OIL,Golden,Golden Fiesta Canola Oil,145,ml,500
+PANTRY STAPLES,White King,White King All-Purpose Flour,52,g,800
+PANTRY STAPLES,Argentina,Argentina Corned Beef Regular,43.5,g,150
+SNACKS,Rebisco,Rebisco Crackers Plain,42,pack,10
+SNACKS,Oishi,Oishi Prawn Crackers Regular,28,g,60
+SNACKS,Oishi,Chippy Barbecue,27.5,g,110
+TOILETRIES,Safeguard,Safeguard Lemon Fresh Soap,52,g,130
+TOILETRIES,Eskinol,Eskinol Lemon Facial Cleanser,92,ml,225
+TOILETRIES,Rexona,Rexona Men Powder Dry Deodorant Spray,195,ml,150
+CANNED GOODS,Century Tuna,Century Tuna Flakes in Oil,38.82,g,155
+CANNED GOODS,Century Tuna,Century Tuna Flakes Hot & Spicy,41.48,g,155
+CANNED GOODS,Century Tuna,Century Tuna Flakes Hot & Spicy,41.14,g,180
+CANNED GOODS,Century Tuna,Century Tuna Flakes with Calamansi,40.27,g,155
+CANNED GOODS,555,Century Tuna Flakes with Calamansi,39.18,g,180
+CANNED GOODS,555,555 Tuna Flakes Hot & Spicy,29.5,g,155
+CANNED GOODS,555,555 Tuna Flakes Mechado,30.34,g,155
+CANNED GOODS,555,555 Tuna Flakes Afritada,31.54,g,155
+CANNED GOODS,San Marino,San Marino Corned Tuna Regular,38.97,g,150
+CANNED GOODS,San Marino,San Marino Corned Tuna Regular,40.14,g,180
+CANNED GOODS,San Marino,San Marino Corned Tuna Chili,42.73,g,150
+CANNED GOODS,San Marino,San Marino Corned Tuna Chili,41.65,g,180
+CANNED GOODS,Mega,Mega Sardines in Tomato Sauce,19.28,g,155
+CANNED GOODS,Mega,Mega Sardines in Tomato Sauce with Chili,20.12,g,155
+CANNED GOODS,555,555 Sardines in Tomato Sauce,19.27,g,155
+CANNED GOODS,555,555 Sardines Hot & Spicy,18.21,g,155
+CANNED GOODS,Ligo,Ligo Sardines in Tomato Sauce,21.18,g,155
+CANNED GOODS,Ligo,Ligo Sardines Gisado,21.03,g,155
+CANNED GOODS,Saba,Saba Mackerel in Natural Oil,47.3,g,155
+CANNED GOODS,Saba,Saba Mackerel in Natural Oil,58.16,g,425
+CANNED GOODS,Saba,Saba Mackerel in Tomato Sauce,60.97,g,155
+CANNED GOODS,Argentina,Saba Mackerel in Tomato Sauce,46.05,g,425
+CANNED GOODS,Argentina,Argentina Corned Beef Regular,49.01,g,150
+CANNED GOODS,Argentina,Argentina Corned Beef Regular,43.92,g,175
+CANNED GOODS,Argentina,Argentina Corned Beef Regular,43.54,g,200
+CANNED GOODS,Argentina,Argentina Corned Beef Chili,49.14,g,150
+CANNED GOODS,Argentina,Argentina Corned Beef Chili,47.94,g,175
+CANNED GOODS,Argentina,Argentina Corned Beef Chili,55.61,g,200
+CANNED GOODS,Argentina,Argentina Corned Beef Garlic,51.3,g,150
+CANNED GOODS,Argentina,Argentina Corned Beef Garlic,50.21,g,175
+CANNED GOODS,Argentina,Argentina Corned Beef Garlic,51.7,g,200
+CANNED GOODS,Purefoods,Purefoods Corned Beef Regular,146.06,g,150
+CANNED GOODS,Purefoods,Purefoods Corned Beef Regular,184.37,g,210
+CANNED GOODS,Purefoods,Purefoods Corned Beef Regular,122.86,g,380
+CANNED GOODS,Purefoods,Purefoods Corned Beef Chili,143.55,g,150
+CANNED GOODS,Purefoods,Purefoods Corned Beef Chili,146.13,g,210
+CANNED GOODS,Purefoods,Purefoods Corned Beef Chili,121.22,g,380
+CANNED GOODS,Star,Star Corned Beef Regular,38.04,g,150
+CANNED GOODS,Star,Star Corned Beef Regular,35.95,g,175
+CANNED GOODS,Star,Star Corned Beef Garlic,35.97,g,150
+CANNED GOODS,Star,Star Corned Beef Garlic,37.67,g,175
+CANNED GOODS,Swift,Swift Corned Beef Regular,36,g,150
+CANNED GOODS,CDO,CDO Beef Loaf Regular,24.16,g,150
+CANNED GOODS,CDO,CDO Beef Loaf Regular,22.55,g,170
+CANNED GOODS,CDO,CDO Beef Loaf Hot & Spicy,23.96,g,150
+CANNED GOODS,CDO,CDO Beef Loaf Hot & Spicy,24.05,g,170
+CANNED GOODS,555,555 Beef Loaf Regular,19.5,g,150
+CANNED GOODS,Purefoods,Purefoods Meat Loaf Regular,26.71,g,150
+CANNED GOODS,Purefoods,Purefoods Meat Loaf Regular,25.91,g,170
+CANNED GOODS,Spam,SPAM Regular,193.4,g,340
+CANNED GOODS,Spam,SPAM Lite,199.47,g,340
+CANNED GOODS,Spam,SPAM Less Sodium,185.53,g,340
+CANNED GOODS,Spam,SPAM With Bacon,190.89,g,340
+CANNED GOODS,MaLing,MaLing Luncheon Meat Regular,61.9,g,170
+CANNED GOODS,MaLing,MaLing Luncheon Meat Regular,86.89,g,397
+CANNED GOODS,Purefoods,Purefoods Vienna Sausage Regular,83.77,g,140
+CANNED GOODS,Purefoods,Purefoods Vienna Sausage Regular,94.06,g,230
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Kalamansi,15.21,g,60
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Kalamansi,11.97,g,80
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Original,11.91,g,60
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Original,12.76,g,80
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Hot Chili,14.4,g,60
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Hot Chili,15.05,g,80
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Sweet & Spicy,11.57,g,60
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Sweet & Spicy,12.23,g,80
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Chili Mansi,12.25,g,60
+NOODLES & PASTA,Lucky Me!,Lucky Me! Pancit Canton Chili Mansi,15.28,g,80
+NOODLES & PASTA,Payless,Payless Pancit Canton Kalamansi,11.9,g,65
+NOODLES & PASTA,Payless,Payless Pancit Canton Chili Mansi,10.6,g,65
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Chicken,10.12,g,55
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Chicken,10.96,g,70
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Beef,10.86,g,55
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Beef,9.41,g,70
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami La Paz Batchoy,10.97,g,55
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami La Paz Batchoy,9.42,g,70
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Bulalo,9.56,g,55
+NOODLES & PASTA,Lucky Me!,Lucky Me! Instant Mami Bulalo,10.59,g,70
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Seafood,25.74,g,40
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Seafood,22.48,g,60
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Beef,20.45,g,40
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Beef,22.95,g,60
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Chicken,21.73,g,40
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Chicken,19.89,g,60
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Spicy Seafood,23.24,g,40
+NOODLES & PASTA,Nissin,Nissin Cup Noodles Spicy Seafood,20.22,g,60
+NOODLES & PASTA,Nongshim,Nongshim Shin Ramyun Gourmet Spicy,59.54,g,120
+NOODLES & PASTA,Nongshim,Nongshim Shin Ramyun Stir Fry,61.5,g,120
+NOODLES & PASTA,Samyang,Samyang Buldak 2x Spicy Chicken,76.16,g,130
+NOODLES & PASTA,Samyang,Samyang Buldak 2x Spicy Chicken,69.26,g,140
+NOODLES & PASTA,Samyang,Samyang Buldak Carbonara,65.95,g,130
+NOODLES & PASTA,Samyang,Samyang Buldak Carbonara,69.08,g,140
+NOODLES & PASTA,Samyang,Samyang Buldak Cheese,74.85,g,130
+NOODLES & PASTA,Samyang,Samyang Buldak Cheese,72.27,g,140
+NOODLES & PASTA,San Remo,San Remo Spaghetti Regular,75.78,g,500
+NOODLES & PASTA,Del Monte,Del Monte Spaghetti Pasta Regular,91.62,g,400
+NOODLES & PASTA,Del Monte,Del Monte Spaghetti Pasta Regular,58.61,g,900
+NOODLES & PASTA,Ideal,Ideal Macaroni Elbow,57.74,g,500
+NOODLES & PASTA,Ideal,Ideal Macaroni Salad,56.31,g,500
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Soy Sauce Regular,44.4,ml,200
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Soy Sauce Regular,41.15,ml,350
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Soy Sauce Regular,11.75,ml,1000
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Soy Sauce Regular,43.16,ml,200
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Soy Sauce Regular,30.61,ml,350
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Soy Sauce Regular,17.95,ml,1000
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Vinegar White Vinegar,32.3,ml,200
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Vinegar White Vinegar,19.74,ml,350
+CONDIMENTS & SAUCES,Datu Puti,Datu Puti Vinegar White Vinegar,9.02,ml,1000
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Vinegar Sukang Puti,14.64,ml,200
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Vinegar Sukang Puti,27.26,ml,350
+CONDIMENTS & SAUCES,Silver Swan,Silver Swan Vinegar Sukang Puti,29.62,ml,1000
+CONDIMENTS & SAUCES,Mang Tomas,Mang Tomas Sauce All-Purpose Regular,59.2,g,325
+CONDIMENTS & SAUCES,Mang Tomas,Mang Tomas Sauce All-Purpose Regular,66.31,g,550
+CONDIMENTS & SAUCES,Mang Tomas,Mang Tomas Sauce Siga Spicy,44.08,g,325
+CONDIMENTS & SAUCES,Mang Tomas,Mang Tomas Sauce Siga Spicy,39.82,g,550
+CONDIMENTS & SAUCES,UFC,UFC Banana Ketchup Regular,39.07,g,320
+CONDIMENTS & SAUCES,UFC,UFC Banana Ketchup Regular,55.38,g,550
+CONDIMENTS & SAUCES,UFC,UFC Banana Ketchup Tamang Tamang Anghang,40.65,g,320
+CONDIMENTS & SAUCES,UFC,UFC Banana Ketchup Tamang Tamang Anghang,36.11,g,550
+CONDIMENTS & SAUCES,Papa,Papa Banana Ketchup Regular,33.39,g,320
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Original,25.09,g,200
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Original,79.97,g,250
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Original,81.1,g,1000
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Italian Style,60.34,g,200
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Italian Style,61.14,g,250
+CONDIMENTS & SAUCES,Del Monte,Del Monte Tomato Sauce Italian Style,68.5,g,1000
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Sweet Style,105.63,g,250
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Sweet Style,54.16,g,500
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Sweet Style,108.06,g,1000
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Filipino Style,49.98,g,250
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Filipino Style,47.85,g,500
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Filipino Style,101.71,g,1000
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Italian Style,56.14,g,250
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Italian Style,100.97,g,500
+CONDIMENTS & SAUCES,Del Monte,Del Monte Spaghetti Sauce Italian Style,44.96,g,1000
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Real Mayonnaise,254.65,ml,220
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Real Mayonnaise,184.96,ml,470
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Real Mayonnaise,232.72,ml,700
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Sandwich Spread,181.43,ml,220
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Sandwich Spread,121.53,ml,470
+CONDIMENTS & SAUCES,Lady's Choice,Lady's Choice Mayonnaise Sandwich Spread,202.94,ml,700
+BEVERAGES,Coca-Cola,Coca-Cola Original Taste,24.32,ml,325
+BEVERAGES,Coca-Cola,Coca-Cola Original Taste,52.3,ml,500
+BEVERAGES,Coca-Cola,Coca-Cola Original Taste,83.21,ml,1500
+BEVERAGES,Coca-Cola,Coca-Cola Original Taste,46.99,ml,2000
+BEVERAGES,Coca-Cola,Coca-Cola Zero Sugar,44.87,ml,325
+BEVERAGES,Coca-Cola,Coca-Cola Zero Sugar,63.2,ml,500
+BEVERAGES,Coca-Cola,Coca-Cola Zero Sugar,80.73,ml,1500
+BEVERAGES,Coca-Cola,Coca-Cola Zero Sugar,58.29,ml,2000
+BEVERAGES,Sprite,Sprite Regular,49.74,ml,325
+BEVERAGES,Sprite,Sprite Regular,40.49,ml,500
+BEVERAGES,Sprite,Sprite Regular,24.71,ml,1500
+BEVERAGES,Sprite,Sprite Zero Sugar,44.36,ml,325
+BEVERAGES,Sprite,Sprite Zero Sugar,32.87,ml,500
+BEVERAGES,Sprite,Sprite Zero Sugar,42.1,ml,1500
+BEVERAGES,Royal,Royal Tru Orange Regular,74.46,ml,325
+BEVERAGES,Royal,Royal Tru Orange Regular,52.64,ml,500
+BEVERAGES,Royal,Royal Tru Orange Regular,62.93,ml,1500
+BEVERAGES,Pepsi,Pepsi Regular,41.71,ml,330
+BEVERAGES,Pepsi,Pepsi Regular,54.37,ml,500
+BEVERAGES,Pepsi,Pepsi Regular,58.01,ml,1500
+BEVERAGES,Pepsi,Pepsi Lime Zero Sugar,59.87,ml,330
+BEVERAGES,Pepsi,Pepsi Lime Zero Sugar,64.13,ml,500
+BEVERAGES,Pepsi,Pepsi Lime Zero Sugar,52.63,ml,1500
+BEVERAGES,C2,C2 Green Tea Apple,31.21,ml,355
+BEVERAGES,C3,C2 Green Tea Apple,32.84,ml,1000
+BEVERAGES,C4,C2 Green Tea Lemon,37.7,ml,355
+BEVERAGES,C5,C2 Green Tea Lemon,21.79,ml,500
+BEVERAGES,C6,C2 Green Tea Lemon,41.91,ml,1000
+BEVERAGES,C7,C2 Green Tea Melon,37.21,ml,355
+BEVERAGES,C8,C2 Green Tea Melon,39.6,ml,500
+BEVERAGES,C9,C2 Green Tea Melon,25.44,ml,1000
+BEVERAGES,Tang,Tang Powdered Juice Orange,19.39,g,20
+BEVERAGES,Tang,Tang Powdered Juice Pineapple,19.68,g,20
+BEVERAGES,Tang,Tang Powdered Juice Mango,20.76,g,20
+BEVERAGES,Tang,Tang Powdered Juice Calansi,21.01,g,20
+BEVERAGES,Eight O'Clock ,Eight O'Clock Orange,22.54,g,25
+BEVERAGES,Eight O'Clock ,Eight O'Clock Mango,22.93,g,25
+BEVERAGES,Milo,Milo Choco Malt Active-Go,47.78,g,22
+BEVERAGES,Milo,Milo Choco Malt Active-Go,181.11,g,300
+BEVERAGES,Milo,Milo Choco Malt Active-Go,109.87,g,600
+BEVERAGES,Milo,Milo Choco Malt Active-Go,72.8,g,1000
+BEVERAGES,Bear Brand,Bear Brand Powdered Milk Drink,129.16,g,33
+BEVERAGES,Bear Brand,Bear Brand Powdered Milk Drink,25.58,g,150
+BEVERAGES,Bear Brand,Bear Brand Powdered Milk Drink,208.41,g,320
+BEVERAGES,Bear Brand,Bear Brand Powdered Milk Drink,68.04,g,900
+BEVERAGES,Alaska,Alaska Fortified Powdered Milk,13.18,g,33
+BEVERAGES,Alaska,Alaska Fortified Powdered Milk,29.61,g,165
+BEVERAGES,Alaska,Alaska Fortified Powdered Milk,44.71,g,300
+BEVERAGES,Nestle,Nestle All Purpose Cream Regular,69.56,ml,250
+BEVERAGES,Magnolia,Magnolia Fresh Milk Plain,114.01,ml,1000
+BEVERAGES,Cowhead,Cowhead Pure Milk Full Cream,100.16,ml,1000
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Cheese,36.94,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Cheese,21.33,g,85
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Sour Cream,28.15,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Sour Cream,32.7,g,85
+SNACKS & SNACK FOODS,Jack n Jill,Piattos BBQ,32.07,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Piattos BBQ,32.49,g,85
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Nacho Pizza,20.99,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Piattos Nacho Pizza,27.4,g,85
+SNACKS & SNACK FOODS,Jack n Jill,Nova Multigrain Country BBQ,27.25,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Nova Multigrain Country BBQ,18.35,g,78
+SNACKS & SNACK FOODS,Jack n Jill,Nova Homestyle Cheese,31.64,g,40
+SNACKS & SNACK FOODS,Jack n Jill,Nova Homestyle Cheese,29.36,g,78
+SNACKS & SNACK FOODS,Jack n Jill,Chippy Barbecue,27.83,g,110
+SNACKS & SNACK FOODS,Jack n Jill,Chippy Garlic,26.2,g,110
+SNACKS & SNACK FOODS,Jack n Jill,Mr. Chips Nacho Cheese,26.61,g,100
+SNACKS & SNACK FOODS,Oishi,Oishi Prawn Crackers Plain,33.57,g,50
+SNACKS & SNACK FOODS,Oishi,Oishi Prawn Crackers Plain,28.47,g,90
+SNACKS & SNACK FOODS,Oishi,Oishi Prawn Crackers Spicy,34.77,g,50
+SNACKS & SNACK FOODS,Oishi,Oishi Prawn Crackers Spicy,37.99,g,90
+SNACKS & SNACK FOODS,Oishi,Clover Chips Cheese,30.6,g,55
+SNACKS & SNACK FOODS,Oishi,Clover Chips Cheese,47.6,g,145
+SNACKS & SNACK FOODS,Oishi,Clover Chips Ham & Cheese,27.21,g,55
+SNACKS & SNACK FOODS,Oishi,Clover Chips Ham & Cheese,33.24,g,145
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Crackers Plain,65.55,g,250
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Crackers Plain,142.14,g,800
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Garlic,146.3,g,250
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Garlic,73.4,g,800
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Flakes Condensada,126.81,g,250
+SNACKS & SNACK FOODS,SkyFlakes,SkyFlakes Flakes Condensada,145.84,g,800
+SNACKS & SNACK FOODS,Fita,Fita Crackers Plain,57.38,g,240
+SNACKS & SNACK FOODS,Rebisco,Rebisco Crackers Plain,49.71,g,330
+SNACKS & SNACK FOODS,Rebisco,Rebisco Crackers Honey Butter,46.01,g,330
+SNACKS & SNACK FOODS,Jack n Jill,Magic Flakes Crackers Premium,54.05,g,250
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Chocolate,86.55,pack,10
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Chocolate,75.48,pack,12
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Dark Chocolate,75.45,pack,10
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Dark Chocolate,84.89,pack,12
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Macapuno,79.76,pack,10
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Macapuno,81.99,pack,12
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Vanilla,83.85,pack,10
+SNACKS & SNACK FOODS,Fudgee Barr,Fudgee Barr Vanilla,80.34,pack,12
+BATH SOAP,Safeguard,Safeguard Soap Pure White,23.36,g,60
+BATH SOAP,Safeguard,Safeguard Soap Pure White,66.15,g,130
+BATH SOAP,Safeguard,Safeguard Soap Pure White,63.76,g,175
+BATH SOAP,Safeguard,Safeguard Soap Lemon Fresh,40.62,g,60
+BATH SOAP,Safeguard,Safeguard Soap Lemon Fresh,30.73,g,130
+BATH SOAP,Safeguard,Safeguard Soap Lemon Fresh,60.55,g,175
+BATH SOAP,Safeguard,Safeguard Soap Floral Pink,38.54,g,60
+BATH SOAP,Safeguard,Safeguard Soap Floral Pink,38.36,g,130
+BATH SOAP,Safeguard,Safeguard Soap Floral Pink,64.34,g,175
+BATH SOAP,Safeguard,Safeguard Soap Arctic Fresh,66.81,g,60
+BATH SOAP,Safeguard,Safeguard Soap Arctic Fresh,36.25,g,130
+BATH SOAP,Safeguard,Safeguard Soap Arctic Fresh,57.5,g,175
+BATH SOAP,Dove,Dove Beauty Bar White,52.56,g,90
+BATH SOAP,Dove,Dove Beauty Bar White,52.63,g,135
+BATH SOAP,Dove,Dove Beauty Bar Pink,57.12,g,90
+BATH SOAP,Dove,Dove Beauty Bar Pink,68.03,g,135
+BATH SOAP,Dove,Dove Beauty Bar Sensitive,71.55,g,90
+BATH SOAP,Dove,Dove Beauty Bar Sensitive,70.75,g,135
+BATH SOAP,Protex,Protex Soap Icy Cool,34.66,g,100
+BATH SOAP,Protex,Protex Soap Fresh,33.36,g,100
+BATH SOAP,Palmolive,Palmolive Soap Naturals Green,36,g,115
+BATH SOAP,Palmolive,Palmolive Soap Naturals Pink,38.16,g,115
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Cool Menthol,312.58,ml,170
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Cool Menthol,262.15,ml,330
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Cool Menthol,278.05,ml,450
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Smooth & Silky,331.02,ml,170
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Smooth & Silky,152.25,ml,330
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Smooth & Silky,317.81,ml,450
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Apple Fresh,213.31,ml,170
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Apple Fresh,209.65,ml,330
+SHAMPOO,Head & Shoulders,Head & Shoulders Shampoo Apple Fresh,170.4,ml,450
+SHAMPOO,Pantene,Pantene Shampoo Hair Fall Control,217.02,ml,150
+SHAMPOO,Pantene,Pantene Shampoo Hair Fall Control,167.38,ml,300
+SHAMPOO,Pantene,Pantene Shampoo Hair Fall Control,301.13,ml,450
+SHAMPOO,Pantene,Pantene Shampoo Total Damage Care,233.92,ml,150
+SHAMPOO,Pantene,Pantene Shampoo Total Damage Care,315.89,ml,300
+SHAMPOO,Pantene,Pantene Shampoo Total Damage Care,270.7,ml,450
+SHAMPOO,Sunsilk,Sunsilk Shampoo Smooth & Manageable Pink,126.35,ml,160
+SHAMPOO,Sunsilk,Sunsilk Shampoo Smooth & Manageable Pink,217.53,ml,320
+SHAMPOO,Sunsilk,Sunsilk Shampoo Strong & Long Green,111.61,ml,160
+SHAMPOO,Sunsilk,Sunsilk Shampoo Strong & Long Green,110.55,ml,320
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Standout Straight Pink,176.49,ml,180
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Standout Straight Pink,230.66,ml,350
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Hair Fall Defense Green,180.72,ml,180
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Hair Fall Defense Green,173.67,ml,350
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Damage Control Blue,144.6,ml,180
+HAIR CONDITIONER,Creamsilk,Creamsilk Conditioner Damage Control Blue,145.04,ml,350
+TOOTHPASTE,Colgate,Colgate Toothpaste Great Regular Flavor,88.2,g,95
+TOOTHPASTE,Colgate,Colgate Toothpaste Great Regular Flavor,93.55,g,145
+TOOTHPASTE,Colgate,Colgate Toothpaste Great Regular Flavor,88.07,g,195
+TOOTHPASTE,Colgate,Colgate Toothpaste Fresh Confidence Gel,150.49,g,95
+TOOTHPASTE,Colgate,Colgate Toothpaste Fresh Confidence Gel,125.55,g,145
+TOOTHPASTE,Colgate,Colgate Toothpaste Fresh Confidence Gel,112.56,g,195
+TOOTHPASTE,Colgate,Colgate Toothpaste Triple Action,88.48,g,95
+TOOTHPASTE,Colgate,Colgate Toothpaste Triple Action,107.71,g,145
+TOOTHPASTE,Colgate,Colgate Toothpaste Triple Action,121.05,g,195
+TOOTHPASTE,Close-Up,Close-Up Toothpaste Red Hot,96.34,g,120
+TOOTHPASTE,Close-Up,Close-Up Toothpaste Red Hot,94.92,g,145
+TOOTHPASTE,Close-Up,Close-Up Toothpaste Menthol Fresh,117.37,g,120
+TOOTHPASTE,Close-Up,Close-Up Toothpaste Menthol Fresh,112.49,g,145
+TOOTHPASTE,Sensodyne,Sensodyne Toothpaste Fresh Mint,174.88,g,100
+TOOTHPASTE,Sensodyne,Sensodyne Toothpaste Deep Clean,160.13,g,100
+DEODORANT,Rexona,Rexona Deodorant Roll-on Quantum Men,105.12,ml,50
+DEODORANT,Rexona,Rexona Deodorant Roll-on Shower Clean Women,120.33,ml,50
+LOTION,Vaseline,Vaseline Body Lotion Healthy White,139.11,ml,100
+LOTION,Vaseline,Vaseline Body Lotion Healthy White,296.43,ml,250
+LOTION,Vaseline,Vaseline Body Lotion Healthy White,204.66,ml,400
+LOTION,Vaseline,Vaseline Body Lotion Aloe Fresh,232.19,ml,100
+LOTION,Vaseline,Vaseline Body Lotion Aloe Fresh,117.06,ml,250
+LOTION,Vaseline,Vaseline Body Lotion Aloe Fresh,268.13,ml,400
+DISHWASHING,Joy,Joy Dishwashing Liquid Lemon,125.36,ml,200
+DISHWASHING,Joy,Joy Dishwashing Liquid Lemon,134.53,ml,250
+DISHWASHING,Joy,Joy Dishwashing Liquid Lemon,61.53,ml,500
+DISHWASHING,Joy,Joy Dishwashing Liquid Lemon,75.67,ml,800
+DISHWASHING,Joy,Joy Dishwashing Liquid Lime,129.81,ml,200
+DISHWASHING,Joy,Joy Dishwashing Liquid Lime,155.58,ml,250
+DISHWASHING,Joy,Joy Dishwashing Liquid Lime,38.15,ml,500
+DISHWASHING,Joy,Joy Dishwashing Liquid Lime,156.31,ml,800
+DISHWASHING,Joy,Joy Dishwashing Liquid Antibac,90.18,ml,200
+DISHWASHING,Joy,Joy Dishwashing Liquid Antibac,161.27,ml,250
+DISHWASHING,Joy,Joy Dishwashing Liquid Antibac,110.47,ml,500
+DISHWASHING,Joy,Joy Dishwashing Liquid Antibac,147.39,ml,800
+DISHWASHING,Axion,Axion Dishwashing Paste Lemon,39.95,g,190
+DISHWASHING,Axion,Axion Dishwashing Paste Lemon,52.23,g,350
+DISHWASHING,Axion,Axion Dishwashing Paste Lime,70.13,g,190
+DISHWASHING,Axion,Axion Dishwashing Paste Lime,50.75,g,350
+DETERGENT,Ariel,Ariel Powder Detergent Sunrise Fresh,245.86,g,800
+DETERGENT,Ariel,Ariel Powder Detergent Sunrise Fresh,355.72,g,1000
+DETERGENT,Ariel,Ariel Powder Detergent Sunrise Fresh,184.77,g,2000
+DETERGENT,Ariel,Ariel Powder Detergent With Downy,282.07,g,800
+DETERGENT,Ariel,Ariel Powder Detergent With Downy,207.08,g,1000
+DETERGENT,Ariel,Ariel Powder Detergent With Downy,192.26,g,2000
+DETERGENT,Surf,Surf Powder Detergent Blossom Fresh,172.02,g,1000
+DETERGENT,Surf,Surf Powder Detergent Blossom Fresh,206.32,g,2000
+DETERGENT,Surf,Surf Powder Detergent Purple Sun Fresh,208.63,g,1000
+DETERGENT,Surf,Surf Powder Detergent Purple Sun Fresh,144.59,g,2000
+DETERGENT,Tide,Tide Powder Detergent Perfect Clean,214.34,g,1000
+DETERGENT,Tide,Tide Powder Detergent Perfect Clean,230.97,g,2000
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Sunrise Fresh,232.05,ml,400
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Sunrise Fresh,265.6,ml,800
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Sunrise Fresh,181.92,ml,1500
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Antibac,335.02,ml,400
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Antibac,149.67,ml,800
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Antibac,190.64,ml,1500
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Mystique,240.98,ml,400
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Mystique,132.57,ml,800
+FABRIC CONDITIONER,Downy,Downy Fabric Conditioner Mystique,335.41,ml,1500
+FABRIC CONDITIONER,Surf,Surf Fabric Conditioner French Blossom,88.9,ml,800
+BLEACH,Zonrox,Zonrox Bleach Original,33.27,ml,250
+BLEACH,Zonrox,Zonrox Bleach Original,37.68,ml,500
+BLEACH,Zonrox,Zonrox Bleach Original,58.69,ml,1000
+BLEACH,Zonrox,Zonrox Bleach Colorsafe,23.85,ml,250
+BLEACH,Zonrox,Zonrox Bleach Colorsafe,38.97,ml,500
+BLEACH,Zonrox,Zonrox Bleach Colorsafe,66.25,ml,1000
