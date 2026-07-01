@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Order Receipt</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+	<main class="page-wrap receipt-wrap">
+		<section class="card receipt-card">
+			<p class="badge">Order Receipt</p>
+			<h1>CommuniCart PasaBuy</h1>
+
+			<div class="receipt-row">
+				<span>Name</span>
+				<strong>Sample Buyer</strong>
+			</div>
+			<div class="receipt-row">
+				<span>Item</span>
+				<strong>Rice 5kg</strong>
+			</div>
+			<div class="receipt-row">
+				<span>Quantity</span>
+				<strong>2</strong>
+			</div>
+			<div class="receipt-row">
+				<span>Pick-up Point</span>
+				<strong>Barangay Hall</strong>
+			</div>
+
+			<button class="ghost" onclick="window.print()">Print Receipt</button>
+		</section>
+	</main>
+</body>
+</html>
