@@ -18,9 +18,9 @@ load_dotenv()
 def get_db_connection():
     """Establishes and returns a connection to the MySQL database."""
     return mysql.connector.connect(
-        host=os.getenv("MYSQL_HOST", "127.0.0.1"),
-        user=os.getenv("MYSQL_USER", "root"),
-        password=os.getenv("MYSQL_PASSWORD", "DLq28@03LjpDQ2005!LjM"),
+        host=os.getenv("MYSQL_HOST"),
+        user=os.getenv("MYSQL_USER"),
+        password=os.getenv("MYSQL_PASSWORD"),
         database=os.getenv("MYSQL_DB", "pasabuy_db"),
         port=os.getenv("MYSQL_PORT", 3306)
     )
