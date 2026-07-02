@@ -71,6 +71,7 @@ body {
     color: var(--type-1);
 }
 
+.auth-form input[type="username"],
 .auth-form input[type="email"],
 .auth-form input[type="password"] {
     padding: 0.75rem;
