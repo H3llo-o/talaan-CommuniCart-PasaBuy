@@ -53,13 +53,19 @@ cd talaan-CommuniCart-PasaBuy
 
 ### 2. Configure Environment Variables
 Create a file named .env in the root directory. Copy the structure below and fill in the values:
+
 GEMINI_API_KEY='AQ.Ab8RN6I8ZL8_SEZaSUN-8JRGnEzbKdVNgAFl_f1sjggn1EYM8w'
+
 MAPS_API_KEY='AIzaSyBRI4Mwuojqms-qI1fdOQa9-f57ltLpBNM'
 
 MYSQL_HOST='mysql-3e7455b8-talaan.j.aivencloud.com'
+
 MYSQL_PORT='14221'
+
 MYSQL_USER='avnadmin'
+
 MYSQL_PASSWORD='AVNS_axsG4OXYIRfh2C-Bvd2'
+
 MYSQL_DB='pasabuy_db'
 
 ### 3. Setup Virtual Environment (Recommended)
